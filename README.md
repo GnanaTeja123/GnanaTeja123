@@ -35,9 +35,13 @@ My core interests lie in leveraging **AI/ML**, **Big Data**, and **Web3** to cre
 ## 🌱 What I'm Learning
 
 *Data Structures & Algorithms in Python
+
 *Software Engineering Best Practices & Clean Code Principles
+
 *Data Analytics Tools & Techniques: Excel, SQL, Tableau, Power BI
+
 *Advanced Data Science Concepts: Time Series Analysis, Feature Selection, Ensemble Methods
+
 *Python Libraries for Data Science: SciPy, StatsModels, XGBoost, LightGBM
 
 ---
@@ -53,9 +57,13 @@ My core interests lie in leveraging **AI/ML**, **Big Data**, and **Web3** to cre
 🔧 Tech Stack
 
 *Languages: Python, C, R, SQL, Solidity(Basics)
+
 *Frameworks & Libraries: React.js, Node.js, Flask, Streamlit, Seaborn, Matplotlib
+
 *Databases: MongoDB, MySQL, PostgreSQL
+
 *Tools & Platforms: Docker, Kubernetes, AWS, GCP, Jenkins, GitHub Actions
+
 *Blockchain: Ethereum, Web3.js, Ethereum Holesky
 
 ---
