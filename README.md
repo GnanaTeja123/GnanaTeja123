@@ -42,7 +42,7 @@ My core interests lie in leveraging **AI/ML**, **Big Data**, and **Web3** to cre
 
 *Advanced Data Science Concepts: Time Series Analysis, Feature Selection, Ensemble Methods
 
-*Python Libraries for Data Science: SciPy, StatsModels, XGBoost, LightGBM
+*Python Libraries for Data Science: SciPy, StatsModels, XGBoost, LightGBM, Scikit-Learn, Transformers
 
 ---
 
@@ -50,6 +50,7 @@ My core interests lie in leveraging **AI/ML**, **Big Data**, and **Web3** to cre
 
 * 🏅 **Google Data Analytics Professional Certificate** – Comprehensive training in data cleaning, analysis, and visualization.
 * 💼 **Virtual Internships at Skilltimate & Forage** – Real-world experience with data science and analytics tools.
+* 💼 **Internships at Feynn Labs & CollegeTips.in** - Real-world experience in current trending market ,segmentation.
 * 🧪 **Final-Year Project: Social Media Ad Classification** – Built and evaluated models for identifying ad content using NLP techniques.
 
 ---
@@ -72,7 +73,7 @@ My core interests lie in leveraging **AI/ML**, **Big Data**, and **Web3** to cre
 
 - 💼 [LinkedIn – K Gnana Teja](http://www.linkedin.com/in/gnana-teja-kummaragiri-383187324)  
 - 📧 Email: [gnanateja2977@gmail.com](mailto:gnanateja2977@gmail.com)    
-- 📄 [Resume – Gnana Teja (View)](https://drive.google.com/file/d/1bmuV2v2mgSAgsYaAEoPFovtRitRCHIdr/view?usp=sharing)
+- 📄 [Resume – Gnana Teja (View)](https://drive.google.com/file/d/1ken77vy7qsETO4haarDboyesxmqlwse0/view?usp=sharing)
 
 ---
 
