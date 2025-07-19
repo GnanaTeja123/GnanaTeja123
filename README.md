@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gnanateja.portfolio](https://my-portfolio-gz43wt478-gnana-teja-kummaragiris-projects.vercel.app" target="_blank">
+  <a href="https://my-portfolio-gz43wt478-gnana-teja-kummaragiris-projects.vercel.app" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-gnanateja.dev-blueviolet?logo=google-chrome&logoColor=white">
   </a>
   <a href="http://www.linkedin.com/in/gnanatejakummaragiri" target="_blank">
