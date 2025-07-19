@@ -1,89 +1,98 @@
-# 👋 Hi, I'm K GnanaTeja
+<h1 align="center">👋 Hi, I'm K GnanaTeja</h1>
 
-🎓 **Final-Year B.Tech Student – Computer Science and Engineering**
-📊 **Aspiring Data Scientist** | 💻 **Full-Stack Developer** | 🔗 **Blockchain Enthusiast**
+<p align="center">
+  🎓 Final-Year B.Tech Student – Computer Science and Engineering <br>
+  📊 Aspiring Data Scientist | 💻 Web Developer | 🔗 Machine Learning Enthusiast
+</p>
 
-I'm a technology enthusiast driven by curiosity and purpose. With a strong foundation in computer science, I specialize in developing intelligent, end-to-end systems that solve practical problems across industries like agriculture, recruitment, and education.
-My core interests lie in leveraging **AI/ML**, **Big Data**, and **Web3** to create scalable, impactful, and user-focused solutions. I'm constantly learning and enjoy collaborating on interdisciplinary projects that blend data, code, and creativity.
+<p align="center">
+  <a href="https://gnanateja.portfolio](https://my-portfolio-gz43wt478-gnana-teja-kummaragiris-projects.vercel.app" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-gnanateja.dev-blueviolet?logo=google-chrome&logoColor=white">
+  </a>
+  <a href="http://www.linkedin.com/in/gnanatejakummaragiri" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:gnanateja2977@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/GnanaTeja123" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  </a>
+  <a href="https://drive.google.com/file/d/1DniKUKLWsmFZy20dVODp8oANMbHv3vUl/view?usp=sharing" target="_blank">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-View-green">
+  </a>
+</p>
 
 ---
 
 ## 🚀 What I Do
 
-* 📈 **Machine Learning & Data Science**
-  Proficient in data collection, cleaning, feature engineering, model building, hyperparameter tuning, evaluation (accuracy, F1-score, ROC-AUC), and deployment using Flask or Streamlit. Hands-on experience with Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, and Jupyter Notebooks.
+### 📈 Machine Learning & Data Science
+- End-to-end ML pipelines: data collection → preprocessing → model building → tuning → deployment.
+- Tools: `Scikit-learn`, `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `Jupyter`, `Streamlit`, `Flask`.
+- Metrics: Accuracy, F1-Score, ROC-AUC, Silhouette Score, Clustering, and PCA.
 
-* 🔗 **Blockchain & Smart Contracts**
-  Developing and deploying decentralized applications (DApps) on Ethereum. Skilled in Solidity, Truffle, Remix, and Web3.js. Currently exploring Chainlink Oracles, IPFS, and layer-2 scaling solutions.
+### 🔗 Web Development
+- Developed responsive apps/websites using `React`, `Node.js`, and `Next.js`.
 
-* ⚙️ **Big Data & DevOps**
-  Working with Hadoop ecosystem tools (HDFS, MapReduce), Docker for containerization, and GitHub Actions for automating CI/CD workflows. Interested in cloud-native tools like AWS, GCP, and Kubernetes for scalable ML infrastructure.
+### ⚙️ Big Data & DevOps
+- Familiar with `Hadoop (HDFS, MapReduce)`, `GitHub Actions`, and CI/CD automation.
+- Learning `AWS`, `GCP`, and `Kubernetes` for scalable ML & web deployment.
 
 ---
 
 ## 🧠 Currently Working On
 
-* 🌾 **AgriFin – Decentralized Microfinance for Farmers**
-  A blockchain-based platform that provides transparent, low-cost microloans and crop insurance to smallholder farmers using smart contracts, weather APIs, and on-chain credit scoring mechanisms.
+- 🌐 **End-to-End Event Management System**  
+  Full-featured platform for managing conferences, workshops, and large-scale events.
 
-* 🤖 **Health disease prediction**
-  Predict the likelihood of specific diseases (e.g., diabetes, heart disease, cancer) based on patient attributes like age, gender, lifestyle, medical history, and test results.
-
+- 🤖 **Health Disease Prediction**  
+  Predict diseases like **diabetes**, **heart disease**, and **cancer** using ML and clinical data.
 
 ---
 
-## 🌱 What I'm Learning
+## 🌱 Currently Learning
 
-*Data Structures & Algorithms in Python
-
-*Software Engineering Best Practices & Clean Code Principles
-
-*Data Analytics Tools & Techniques: Excel, SQL, Tableau, Power BI
-
-*Advanced Data Science Concepts: Time Series Analysis, Feature Selection, Ensemble Methods
-
-*Python Libraries for Data Science: SciPy, StatsModels, XGBoost, LightGBM, Scikit-Learn, Transformers
+- 🧹 **Clean Code** & Software Engineering Best Practices  
+- 📊 **Data Analytics Tools**: Excel, SQL, Tableau, Power BI  
+- ⚙️ **Advanced ML Concepts**: Time Series, Feature Selection, Ensemble Methods  
+- 🧠 Libraries: `XGBoost`, `LightGBM`, `SciPy`, `StatsModels`, `Transformers`, `TensorFlow`
 
 ---
 
 ## 🏆 Notable Achievements
 
-* 🏅 **Google Data Analytics Professional Certificate** – Comprehensive training in data cleaning, analysis, and visualization.
-* 💼 **Virtual Internships at Skilltimate & Forage** – Real-world experience with data science and analytics tools.
-* 💼 **Internships at Feynn Labs & CollegeTips.in** - Real-world experience in current trending market ,segmentation.
-* 🧪 **Final-Year Project: Social Media Ad Classification** – Built and evaluated models for identifying ad content using NLP techniques.
+- ✅ **Google Data Analytics Professional Certificate**  
+- 💼 **Internships**: Feynn Labs, CollegeTips.in, Skilltimate, Forage  
+- 🧪 **Final-Year Project**: *Incident Response Automation*  
+- 🏆 **Hackathon**: 🥉 3rd Place – *Carbon Footprint Tracker* at Stratum 24-hr Hackathon
 
 ---
 
-🔧 Tech Stack
+## 💻 Tech Stack
 
-*Languages: Python, C, R, SQL, Solidity(Basics)
-
-*Frameworks & Libraries: React.js, Node.js, Flask, Streamlit, Seaborn, Matplotlib
-
-*Databases: MongoDB, MySQL, PostgreSQL
-
-*Tools & Platforms: Docker, Kubernetes, AWS, GCP, Jenkins, GitHub Actions
-
-*Blockchain: Ethereum, Web3.js, Ethereum Holesky
+**Languages:** Python, R, C, SQL, Solidity (Basics)  
+**Frameworks:** React.js, Node.js, Flask, Streamlit, Google Colab, Anaconda  
+**Databases:** MongoDB, MySQL  
+**Tools:** GitHub Actions,Postman
+**Blockchain:** Ethereum, Web3.js, Holesky Testnet  
 
 ---
 
 ## 📌 Let's Connect
 
-- 💼 [LinkedIn – K Gnana Teja](http://www.linkedin.com/in/gnana-teja-kummaragiri-383187324)  
-- 📧 Email: [gnanateja2977@gmail.com](mailto:gnanateja2977@gmail.com)    
-- 📄 [Resume – Gnana Teja (View)](https://drive.google.com/file/d/1ken77vy7qsETO4haarDboyesxmqlwse0/view?usp=sharing)
+- 🌐 **Portfolio**: [gnanateja_portfolio](https://my-portfolio-gz43wt478-gnana-teja-kummaragiris-projects.vercel.app)  
+- 💼 [LinkedIn – K Gnana Teja](https://linkedin.com/in/gnana-teja-kummaragiri-383187324)  
+- 📧 Email: [gnanateja2977@gmail.com](mailto:gnanateja2977@gmail.com)  
+- 📄 [Resume – View PDF](https://drive.google.com/file/d/1ken77vy7qsETO4haarDboyesxmqlwse0/view?usp=sharing)
 
 ---
 
-🚀 Let's Collaborate
-I'm open to collaborating on:
+## 🤝 Let's Collaborate On
 
-📊 Data Analytics Projects
-🤖 Machine Learning Ideas
-🌍 Open Source Contributions
+- 📊 Data Analytics Projects  
+- 🤖 Machine Learning Applications  
+- 🌍 Blockchain-Based Solutions  
+- 🧑‍💻 Open Source & Hackathons  
 
-Feel free to explore my repositories and reach out! Let's create something impactful together.
-> *"Code with purpose. Build with passion. Learn with humility."*
-
+> *“Code with purpose. Build with passion. Learn with humility.”*
