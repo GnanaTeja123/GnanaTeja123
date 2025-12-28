@@ -29,7 +29,7 @@
 
 ### 📈 Machine Learning & Data Science
 - End-to-end ML pipelines: data collection → preprocessing → model building → tuning → deployment.
-- Tools: `Scikit-learn`, `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `Jupyter`, `Streamlit`, `Flask`.
+- Tools: `Scikit-learn`, `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `Jupyter`, `Streamlit`, `Flask`, `Fast API`.
 - Metrics: Accuracy, F1-Score, ROC-AUC, Silhouette Score, Clustering, and PCA.
 
 ### 🔗 Web Development
@@ -71,8 +71,8 @@
 
 ## 💻 Tech Stack
 
-**Languages:** Python, R, C, SQL, Solidity (Basics)  
-**Frameworks:** React.js, Node.js, Flask, Streamlit, Google Colab, Anaconda  
+**Languages:** Python, R, C, SQL  
+**Frameworks:** React.js, Node.js, Flask, Streamlit, Google Colab, Anaconda, Fast API 
 **Databases:** MongoDB, MySQL  
 **Tools:** GitHub Actions,Postman
 **Blockchain:** Ethereum, Web3.js, Holesky Testnet  
@@ -81,7 +81,7 @@
 
 ## 📌 Let's Connect
 
-- 🌐 **Portfolio**: [gnanateja_portfolio](https://my-portfolio-gz43wt478-gnana-teja-kummaragiris-projects.vercel.app)  
+- 🌐 **Portfolio**: [gnanateja_portfolio](https://my-portfolio-gray-ten-67.vercel.app)  
 - 💼 [LinkedIn – K Gnana Teja](https://linkedin.com/in/gnana-teja-kummaragiri-383187324)  
 - 📧 Email: [gnanateja2977@gmail.com](mailto:gnanateja2977@gmail.com)  
 - 📄 [Resume – View PDF](https://drive.google.com/file/d/1ken77vy7qsETO4haarDboyesxmqlwse0/view?usp=sharing)
